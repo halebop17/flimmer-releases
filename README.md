@@ -4,7 +4,7 @@
 
 <h1 align="center">Flimmer</h1>
 
-Flimmer is a media library and player for the Mac. Point it at the folders and drives where your movies and shows live, and it turns them into a browsable library with posters, cast, episode guides and details, then plays them in a native player that remembers where you stopped and what you've watched. No server, no account, no subscription: your files stay where they are.
+Flimmer is a media library and player for the Mac. Point it at the folders and drives where your movies and shows live, and it turns them into a browsable library with posters, cast, episode guides and details, then plays them in a native player that remembers where you stopped and what you've watched. No media server to set up: your files stay where they are.
 
 ## About this repository
 
